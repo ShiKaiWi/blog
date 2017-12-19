@@ -5,6 +5,7 @@ tags:
 ---
 
 ## 画尖角
+```css
 #test-div {	
 	position: absolute;
 	width: 14em;
@@ -16,7 +17,9 @@ tags:
 	box-shadow: .05em .2em .6em rgba(0,0,0,.2);
 	font-size: 75%;
 }
+```
 
+```css
 #test-div:before {
 	content: "";
 	position: absolute;
@@ -29,3 +32,4 @@ tags:
 	border-bottom: 0;
 	transform: translateY(-50%) translateX(-50%) rotate(135deg) ;
 }
+```
