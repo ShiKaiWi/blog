@@ -1,8 +1,6 @@
----
-title: JavaScript ES5 总结
-date: 2017-02-17 00:05:46
-tags: JavaScript ECMA
----
+>title: JavaScript ES5 总结
+>date: 2017-02-17 00:05:46
+>tags: JavaScript ECMA
 
 ## Abstract
 JavaScript 的语法让我感到非常不舒服，究其原因其实是因为两点：

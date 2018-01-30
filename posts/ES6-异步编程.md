@@ -1,8 +1,7 @@
----
-title: ES6-异步编程
-date: 2017-04-03 00:36:55
-tags: Javascript 异步编程
----
+>title: ES6-异步编程
+>date: 2017-04-03 00:36:55
+>tags: Javascript 异步编程
+
 ## 异步编程
 异步编程是 Javascript 的一大特色，因为 Javascript 是单线程工作，因此如果没有异步方式的话，基本上用户体验将会是无法忍受的。
 

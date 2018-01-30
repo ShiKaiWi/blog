@@ -1,8 +1,7 @@
----
-title: React-源码阅读-Component-Mount
-date: 2017-07-01 00:06:29
-tags: react
----
+>title: React-源码阅读-Component-Mount
+>date: 2017-07-01 00:06:29
+>tags: react
+
 ## Mount 一个 Component
 ### callstack
 ReactDomStackEntry => ReactMount => InstantiateReactComponent => CompositeComponent

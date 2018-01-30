@@ -1,8 +1,7 @@
----
-title: Design-Rules
-date: 2017-06-15 23:55:37
-tags:
----
+>title: Design-Rules
+>date: 2017-06-15 23:55:37
+>tags: code-technique
+
 # Design Patterns
 我本来还是相当推崇设计模式的，但是在公司里一些前辈的建议下，让我淡化设计模式本身，记住软件设计的原则，通过多看多写，来自我领悟软件工程的精髓所在，以避免生搬硬套，而走向歧途。
 

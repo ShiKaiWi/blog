@@ -1,8 +1,7 @@
----
-title: Git-实践
-date: 2017-03-05 14:51:47
-tags: git
----
+>title: Git-实践
+>date: 2017-03-05 14:51:47
+>tags: git
+
 ### 1. git merge 时发生了什么? 如何处理？
 
 发生 conflict 的情况有两种：一种是不同 branch 之间的 merge 时发生，还有一种是同一 branch 上由于同步开发，出现相同父节点上出现了两次不同的 commit（实际上只有本人和远程的差异，再具体点说就是合作者与自己拥有同一个父节点，并且在我提交下一个 commit 之前已经提交了一个 commit，这时候我发现无论我 pull 还是 push 都会出现 conflicts ）。

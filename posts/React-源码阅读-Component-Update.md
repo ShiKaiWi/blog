@@ -1,8 +1,7 @@
----
-title: React-源码阅读-Component-Update
-date: 2017-07-07 01:55:38
-tags: react 源码 Component setState
----
+>title: React-源码阅读-Component-Update
+>date: 2017-07-07 01:55:38
+>tags: react 源码 Component setState
+
 # ReactComponent 的更新流程
 
 ## 如何开始

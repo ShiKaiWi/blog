@@ -1,8 +1,6 @@
----
-title: CSS-Tricks-Record
-date: 2017-07-30 15:34:47
-tags:
----
+>title: CSS-Tricks-Record
+>date: 2017-07-30 15:34:47
+>tags: css
 
 ## 画尖角
 ```css
